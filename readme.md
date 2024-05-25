@@ -7,4 +7,4 @@ CH-Mits
 
 2. Content
 
-   
+   Each sample was posted by one same Chinese social media user which consists of an image in png format and a txt file. The txt file has three parts: note title(笔记标题）, note description（笔记描述） and uploading time（上传时间） respectively. Note title is the name of the note created by the user. Note description is the content of user's posting which plays an important role in our sentiment analysis tasks. Uploading time refers to the time the user posted the note.
