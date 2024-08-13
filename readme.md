@@ -10,3 +10,16 @@ The .txt file has three attributes: note title (笔记标题), note description 
 the note description is the main textual content, and the uploading time refers to the time when the note is uploaded.
 
 The dataset is constructed following strict privacy rule, and it does NOT involve any user privacy like user IDs or nick-names.
+
+
+## Citation
+
+If you find this project useful in your research, please consider cite:
+
+```
+@inproceedings{ma2024chmits,
+  title={CH-Mits: A Cross-Modal Dataset for User Sentiment Analysis on Chinese Social Media},
+  author={Ma, Juhao and Xu, Shuai and Liu, Yilin and Fu, Xiaoming},
+  booktitle={33rd ACM International Conference on Information and Knowledge Management},
+  year={2024}
+}
